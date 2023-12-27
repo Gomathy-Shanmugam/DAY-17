@@ -1,0 +1,38 @@
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:440px;
+    width:100px;
+    
+  }
+  .card img {
+    margin-left: 30px;
+    max-width: 80%;
+    height: 150px;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  .card-title{
+    height:30px;
+    display: flex;
+    justify-content: center;
+    background: rgb(175, 105, 116);
+    
+    
+  }
+  .card-text{
+    display: flex;
+    justify-content: center;
+    gap:2px
+  }
+  .btn{
+ margin-left: 45px;
+  }
+  .container{
+    background:pink;
+    /* background-image:url(https://imgur.com/c60RJiT.jpg); */
+    
+  }
+  
